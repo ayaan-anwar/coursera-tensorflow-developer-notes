@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 tensorflow-1-public/
 img/*
+*.tsv
